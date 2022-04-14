@@ -1,0 +1,156 @@
+@media screen and (max-width: 1399px){
+
+}
+
+@media screen and (max-width: 1199px){
+    .doctor .card-body h5 {
+        font-size: 25px;
+        line-height: 35px;
+    }
+    .doctor .card-body p {
+        font-size: 15px;
+        line-height: 27px;
+    }
+    .service {
+        padding: 20px 10px;
+    }
+}
+
+@media screen and (max-width: 991px){
+    .info-box p, .info-box {
+        font-size: 12px;
+        line-height: 18px;
+    }
+    .top-header-section {
+        padding: 10px 0;
+    }
+    .carousel-caption h1 {
+        font-size: 40px;
+        line-height: 55px;
+    }
+    .carousel-caption p {
+        font-size: 16px;
+        line-height: 24px;
+        margin: 20px 0 35px;
+    }
+    .carousel-inner {
+        min-height: 380px;
+    }
+    .doctor-section {
+        padding: 5px 0;
+    }
+    .navbar-nav {
+        flex-direction: row;
+        justify-content: center;
+    }
+    .navbar-nav .btn-custom {
+        padding: 5px 10px;
+    }
+    .btn-custom {
+        padding: 10px 25px;
+    }
+    .navbar-light .navbar-toggler-icon {
+        filter: invert(1);
+        opacity: 1;
+    }
+    .navbar-light .navbar-toggler {
+        border-color: rgb(255 255 255 / 38%);
+        border-radius: 0;
+    }
+    .service img {
+        width: 60px;
+        height: 60px;
+    }
+    .doctor .card-body h5 {
+        font-size: 20px;
+        line-height: 35px;
+    }
+    .doctor .card-body p {
+        font-size: 12px;
+        line-height: 28px;
+    }
+    .doctor .card-body a {
+        font-size: 14px;
+        line-height: 16px;
+        padding: 12px 16px;
+    }
+
+}
+
+@media screen and (max-width: 767px){
+    .navbar-nav {
+        flex-direction: column;
+        justify-content: flex-end;
+        align-items: center;
+    }
+    .carousel-caption h1 {
+        font-size: 30px;
+        line-height: 45px;
+    }
+    .carousel-caption p {
+        font-size: 12px;
+    }
+    .btn-custom {
+        padding: 8px 20px;
+        font-size: 14px;
+    }
+    .carousel-caption {
+        padding: 0 40px;
+    }
+    .heading p {
+        font-size: 16px;
+        padding: 0 30px;
+    }
+    .doctor {
+        margin-bottom: 30px;
+    }
+    .heading h2 {
+        font-size: 28px;
+        line-height: 35px;
+    }
+    .heading p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .carousel-caption h1 {
+        font-size: 22px;
+        line-height: 35px;
+    }
+    .carousel-caption p {
+        display: none;
+    }
+    .carousel-inner {
+        min-height: 300px;
+    }
+    header {
+        padding-bottom: 90px;
+    }
+    .btn-reverse {
+        margin-bottom: 10px;
+    }
+    .info-box {
+        justify-content: center;
+    }
+    .info-box br{
+        display: none;
+    }
+    .navbar-brand img{
+        width: 50px;
+    }
+    .navbar-toggler-icon {
+        width: 1.2em;
+        height: 1.2em;
+    }
+    .navbar-toggler {
+        padding: .25rem 0.25rem;
+    }
+
+}
+
+@media screen and (max-width: 575){
+
+}
+
+@media screen and (max-width: 320px){
+
+}
